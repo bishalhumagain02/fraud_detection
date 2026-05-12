@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 os
 pandas
 matplotlib
@@ -7,16 +6,3 @@ scikit-learn
 joblib
 scipy
 streamlit
-=======
-pandas
-matplotlib
-seaborn
-scikit-learn
-joblib
-scipy
-streamlit
-
-
-
-
->>>>>>> 659b1d5a5416fd0780f19cb7949d65bdeeca8a37
